@@ -1,0 +1,19 @@
+body {
+  background-color: #001;
+}
+#menu-button ul {
+  display: block;
+  position: relative;
+  top: 15px;
+  left: 0;
+  font-size: 1em;
+  background-color: #3db2e1;
+}
+#menu-button li {
+  display: inline-block;
+  margin: 0.5em 1.5em;
+}
+#menu-button a {
+  text-decoration: none;
+  color: white;
+}
