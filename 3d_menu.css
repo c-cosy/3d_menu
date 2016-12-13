@@ -1,7 +1,7 @@
 body {
   background-color: #001;
 }
-#menu-button ul {
+nav ul {
   display: block;
   position: relative;
   top: 15px;
@@ -9,11 +9,11 @@ body {
   font-size: 1em;
   background-color: #3db2e1;
 }
-#menu-button li {
+nav li {
   display: inline-block;
   margin: 0.5em 1.5em;
 }
-#menu-button a {
+nav a {
   text-decoration: none;
   color: white;
 }
